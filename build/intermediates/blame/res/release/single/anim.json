@@ -1,0 +1,62 @@
+[
+    {
+        "merged": "/Users/midaipay/Documents/jing.guo/gold_midai_android3.0/lastest/Goldmidai3.0.0/mDLib/build/intermediates/res/merged/release/anim/slide_right_in.xml",
+        "source": "/Users/midaipay/Documents/jing.guo/gold_midai_android3.0/lastest/Goldmidai3.0.0/mDLib/src/main/res/anim/slide_right_in.xml"
+    },
+    {
+        "merged": "/Users/midaipay/Documents/jing.guo/gold_midai_android3.0/lastest/Goldmidai3.0.0/mDLib/build/intermediates/res/merged/release/anim/slide_right_out.xml",
+        "source": "/Users/midaipay/Documents/jing.guo/gold_midai_android3.0/lastest/Goldmidai3.0.0/mDLib/src/main/res/anim/slide_right_out.xml"
+    },
+    {
+        "merged": "/Users/midaipay/Documents/jing.guo/gold_midai_android3.0/lastest/Goldmidai3.0.0/mDLib/build/intermediates/res/merged/release/anim/slide_left_in.xml",
+        "source": "/Users/midaipay/Documents/jing.guo/gold_midai_android3.0/lastest/Goldmidai3.0.0/mDLib/src/main/res/anim/slide_left_in.xml"
+    },
+    {
+        "merged": "/Users/midaipay/Documents/jing.guo/gold_midai_android3.0/lastest/Goldmidai3.0.0/mDLib/build/intermediates/res/merged/release/anim/slide_up_out.xml",
+        "source": "/Users/midaipay/Documents/jing.guo/gold_midai_android3.0/lastest/Goldmidai3.0.0/mDLib/src/main/res/anim/slide_up_out.xml"
+    },
+    {
+        "merged": "/Users/midaipay/Documents/jing.guo/gold_midai_android3.0/lastest/Goldmidai3.0.0/mDLib/build/intermediates/res/merged/release/anim/popup_exit.xml",
+        "source": "/Users/midaipay/Documents/jing.guo/gold_midai_android3.0/lastest/Goldmidai3.0.0/mDLib/src/main/res/anim/popup_exit.xml"
+    },
+    {
+        "merged": "/Users/midaipay/Documents/jing.guo/gold_midai_android3.0/lastest/Goldmidai3.0.0/mDLib/build/intermediates/res/merged/release/anim/fade_out.xml",
+        "source": "/Users/midaipay/Documents/jing.guo/gold_midai_android3.0/lastest/Goldmidai3.0.0/mDLib/src/main/res/anim/fade_out.xml"
+    },
+    {
+        "merged": "/Users/midaipay/Documents/jing.guo/gold_midai_android3.0/lastest/Goldmidai3.0.0/mDLib/build/intermediates/res/merged/release/anim/slide_down_out.xml",
+        "source": "/Users/midaipay/Documents/jing.guo/gold_midai_android3.0/lastest/Goldmidai3.0.0/mDLib/src/main/res/anim/slide_down_out.xml"
+    },
+    {
+        "merged": "/Users/midaipay/Documents/jing.guo/gold_midai_android3.0/lastest/Goldmidai3.0.0/mDLib/build/intermediates/res/merged/release/anim/activity_translate_in.xml",
+        "source": "/Users/midaipay/Documents/jing.guo/gold_midai_android3.0/lastest/Goldmidai3.0.0/mDLib/src/main/res/anim/activity_translate_in.xml"
+    },
+    {
+        "merged": "/Users/midaipay/Documents/jing.guo/gold_midai_android3.0/lastest/Goldmidai3.0.0/mDLib/build/intermediates/res/merged/release/anim/slide_up_in.xml",
+        "source": "/Users/midaipay/Documents/jing.guo/gold_midai_android3.0/lastest/Goldmidai3.0.0/mDLib/src/main/res/anim/slide_up_in.xml"
+    },
+    {
+        "merged": "/Users/midaipay/Documents/jing.guo/gold_midai_android3.0/lastest/Goldmidai3.0.0/mDLib/build/intermediates/res/merged/release/anim/slide_down_in.xml",
+        "source": "/Users/midaipay/Documents/jing.guo/gold_midai_android3.0/lastest/Goldmidai3.0.0/mDLib/src/main/res/anim/slide_down_in.xml"
+    },
+    {
+        "merged": "/Users/midaipay/Documents/jing.guo/gold_midai_android3.0/lastest/Goldmidai3.0.0/mDLib/build/intermediates/res/merged/release/anim/slide_left_out.xml",
+        "source": "/Users/midaipay/Documents/jing.guo/gold_midai_android3.0/lastest/Goldmidai3.0.0/mDLib/src/main/res/anim/slide_left_out.xml"
+    },
+    {
+        "merged": "/Users/midaipay/Documents/jing.guo/gold_midai_android3.0/lastest/Goldmidai3.0.0/mDLib/build/intermediates/res/merged/release/anim/fade_in.xml",
+        "source": "/Users/midaipay/Documents/jing.guo/gold_midai_android3.0/lastest/Goldmidai3.0.0/mDLib/src/main/res/anim/fade_in.xml"
+    },
+    {
+        "merged": "/Users/midaipay/Documents/jing.guo/gold_midai_android3.0/lastest/Goldmidai3.0.0/mDLib/build/intermediates/res/merged/release/anim/rotate.xml",
+        "source": "/Users/midaipay/Documents/jing.guo/gold_midai_android3.0/lastest/Goldmidai3.0.0/mDLib/src/main/res/anim/rotate.xml"
+    },
+    {
+        "merged": "/Users/midaipay/Documents/jing.guo/gold_midai_android3.0/lastest/Goldmidai3.0.0/mDLib/build/intermediates/res/merged/release/anim/activity_translate_out.xml",
+        "source": "/Users/midaipay/Documents/jing.guo/gold_midai_android3.0/lastest/Goldmidai3.0.0/mDLib/src/main/res/anim/activity_translate_out.xml"
+    },
+    {
+        "merged": "/Users/midaipay/Documents/jing.guo/gold_midai_android3.0/lastest/Goldmidai3.0.0/mDLib/build/intermediates/res/merged/release/anim/popup_enter.xml",
+        "source": "/Users/midaipay/Documents/jing.guo/gold_midai_android3.0/lastest/Goldmidai3.0.0/mDLib/src/main/res/anim/popup_enter.xml"
+    }
+]

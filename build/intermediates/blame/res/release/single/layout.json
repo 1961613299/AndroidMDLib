@@ -1,0 +1,62 @@
+[
+    {
+        "merged": "/Users/midaipay/Documents/jing.guo/gold_midai_android3.0/lastest/Goldmidai3.0.0/mDLib/build/intermediates/res/merged/release/layout/ssdk_oks_skyblue_editpage_at_layout.xml",
+        "source": "/Users/midaipay/Documents/jing.guo/gold_midai_android3.0/lastest/Goldmidai3.0.0/mDLib/src/main/res/layout/ssdk_oks_skyblue_editpage_at_layout.xml"
+    },
+    {
+        "merged": "/Users/midaipay/Documents/jing.guo/gold_midai_android3.0/lastest/Goldmidai3.0.0/mDLib/build/intermediates/res/merged/release/layout/activity_gestruepsd.xml",
+        "source": "/Users/midaipay/Documents/jing.guo/gold_midai_android3.0/lastest/Goldmidai3.0.0/mDLib/src/main/res/layout/activity_gestruepsd.xml"
+    },
+    {
+        "merged": "/Users/midaipay/Documents/jing.guo/gold_midai_android3.0/lastest/Goldmidai3.0.0/mDLib/build/intermediates/res/merged/release/layout/saloadingdialog.xml",
+        "source": "/Users/midaipay/Documents/jing.guo/gold_midai_android3.0/lastest/Goldmidai3.0.0/mDLib/src/main/res/layout/saloadingdialog.xml"
+    },
+    {
+        "merged": "/Users/midaipay/Documents/jing.guo/gold_midai_android3.0/lastest/Goldmidai3.0.0/mDLib/build/intermediates/res/merged/release/layout/ssdk_oks_skyblue_editpage.xml",
+        "source": "/Users/midaipay/Documents/jing.guo/gold_midai_android3.0/lastest/Goldmidai3.0.0/mDLib/src/main/res/layout/ssdk_oks_skyblue_editpage.xml"
+    },
+    {
+        "merged": "/Users/midaipay/Documents/jing.guo/gold_midai_android3.0/lastest/Goldmidai3.0.0/mDLib/build/intermediates/res/merged/release/layout/softupdate_progress.xml",
+        "source": "/Users/midaipay/Documents/jing.guo/gold_midai_android3.0/lastest/Goldmidai3.0.0/mDLib/src/main/res/layout/softupdate_progress.xml"
+    },
+    {
+        "merged": "/Users/midaipay/Documents/jing.guo/gold_midai_android3.0/lastest/Goldmidai3.0.0/mDLib/build/intermediates/res/merged/release/layout/ssdk_oks_skyblue_share_platform_list_item.xml",
+        "source": "/Users/midaipay/Documents/jing.guo/gold_midai_android3.0/lastest/Goldmidai3.0.0/mDLib/src/main/res/layout/ssdk_oks_skyblue_share_platform_list_item.xml"
+    },
+    {
+        "merged": "/Users/midaipay/Documents/jing.guo/gold_midai_android3.0/lastest/Goldmidai3.0.0/mDLib/build/intermediates/res/merged/release/layout/activity_popupwindow_main.xml",
+        "source": "/Users/midaipay/Documents/jing.guo/gold_midai_android3.0/lastest/Goldmidai3.0.0/mDLib/src/main/res/layout/activity_popupwindow_main.xml"
+    },
+    {
+        "merged": "/Users/midaipay/Documents/jing.guo/gold_midai_android3.0/lastest/Goldmidai3.0.0/mDLib/build/intermediates/res/merged/release/layout/sasinglechoicedialog.xml",
+        "source": "/Users/midaipay/Documents/jing.guo/gold_midai_android3.0/lastest/Goldmidai3.0.0/mDLib/src/main/res/layout/sasinglechoicedialog.xml"
+    },
+    {
+        "merged": "/Users/midaipay/Documents/jing.guo/gold_midai_android3.0/lastest/Goldmidai3.0.0/mDLib/build/intermediates/res/merged/release/layout/ssdk_oks_skyblue_editpage_inc_image_layout.xml",
+        "source": "/Users/midaipay/Documents/jing.guo/gold_midai_android3.0/lastest/Goldmidai3.0.0/mDLib/src/main/res/layout/ssdk_oks_skyblue_editpage_inc_image_layout.xml"
+    },
+    {
+        "merged": "/Users/midaipay/Documents/jing.guo/gold_midai_android3.0/lastest/Goldmidai3.0.0/mDLib/build/intermediates/res/merged/release/layout/ssdk_oks_skyblue_share_platform_list.xml",
+        "source": "/Users/midaipay/Documents/jing.guo/gold_midai_android3.0/lastest/Goldmidai3.0.0/mDLib/src/main/res/layout/ssdk_oks_skyblue_share_platform_list.xml"
+    },
+    {
+        "merged": "/Users/midaipay/Documents/jing.guo/gold_midai_android3.0/lastest/Goldmidai3.0.0/mDLib/build/intermediates/res/merged/release/layout/satoast.xml",
+        "source": "/Users/midaipay/Documents/jing.guo/gold_midai_android3.0/lastest/Goldmidai3.0.0/mDLib/src/main/res/layout/satoast.xml"
+    },
+    {
+        "merged": "/Users/midaipay/Documents/jing.guo/gold_midai_android3.0/lastest/Goldmidai3.0.0/mDLib/build/intermediates/res/merged/release/layout/saalertdialog.xml",
+        "source": "/Users/midaipay/Documents/jing.guo/gold_midai_android3.0/lastest/Goldmidai3.0.0/mDLib/src/main/res/layout/saalertdialog.xml"
+    },
+    {
+        "merged": "/Users/midaipay/Documents/jing.guo/gold_midai_android3.0/lastest/Goldmidai3.0.0/mDLib/build/intermediates/res/merged/release/layout/ssdk_oks_skyblue_share_actionbar.xml",
+        "source": "/Users/midaipay/Documents/jing.guo/gold_midai_android3.0/lastest/Goldmidai3.0.0/mDLib/src/main/res/layout/ssdk_oks_skyblue_share_actionbar.xml"
+    },
+    {
+        "merged": "/Users/midaipay/Documents/jing.guo/gold_midai_android3.0/lastest/Goldmidai3.0.0/mDLib/build/intermediates/res/merged/release/layout/activity_main.xml",
+        "source": "/Users/midaipay/Documents/jing.guo/gold_midai_android3.0/lastest/Goldmidai3.0.0/mDLib/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/midaipay/Documents/jing.guo/gold_midai_android3.0/lastest/Goldmidai3.0.0/mDLib/build/intermediates/res/merged/release/layout/fragment_popup.xml",
+        "source": "/Users/midaipay/Documents/jing.guo/gold_midai_android3.0/lastest/Goldmidai3.0.0/mDLib/src/main/res/layout/fragment_popup.xml"
+    }
+]
